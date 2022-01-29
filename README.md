@@ -18,3 +18,5 @@
 - Know in which Circuit the Stock lies
 
 ## Screenshots - 
+1. HomePage -
+2. ![HomePage](https://github.com/jayoswal/Carpe-Diem-Stock-Price-Prediction-Hackathon/blob/main/Screenhots/homepage_1.jpg)
