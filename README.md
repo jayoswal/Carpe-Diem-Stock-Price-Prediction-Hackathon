@@ -20,3 +20,4 @@
 ## Screenshots - 
 1. HomePage -
 ![HomePage](https://github.com/jayoswal/Carpe-Diem-Stock-Price-Prediction-Hackathon/blob/main/Screenhots/homepage_1.jpg)
+2. Presentation PDF is included in this repository.
