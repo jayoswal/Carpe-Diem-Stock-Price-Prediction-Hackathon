@@ -19,4 +19,6 @@
 
 ## Screenshots - 
 1. HomePage -
-2. ![HomePage](https://github.com/jayoswal/Carpe-Diem-Stock-Price-Prediction-Hackathon/blob/main/Screenhots/homepage_1.jpg)
+![HomePage](https://github.com/jayoswal/Carpe-Diem-Stock-Price-Prediction-Hackathon/blob/main/Screenhots/homepage_1.jpg)
+![Features_1](https://github.com/jayoswal/Carpe-Diem-Stock-Price-Prediction-Hackathon/blob/main/Screenhots/Features_1.jpg)
+![Features_2](https://github.com/jayoswal/Carpe-Diem-Stock-Price-Prediction-Hackathon/blob/main/Screenhots/Features_2.jpg)
