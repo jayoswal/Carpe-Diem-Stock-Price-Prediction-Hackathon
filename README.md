@@ -21,4 +21,6 @@
 ![HomePage](https://github.com/jayoswal/Carpe-Diem-Stock-Price-Prediction-Hackathon/blob/main/Screenhots/homepage_1.jpg)
 2.  Features -
 ![HomePage](https://github.com/jayoswal/Carpe-Diem-Stock-Price-Prediction-Hackathon/blob/main/Screenhots/Features_1.jpg)
+
+![HomePage](https://github.com/jayoswal/Carpe-Diem-Stock-Price-Prediction-Hackathon/blob/main/Screenhots/Features_2.jpg)
 4. Presentation PDF is included in this repository [here](https://github.com/jayoswal/Carpe-Diem-Stock-Price-Prediction-Hackathon/blob/main/Stock%20Price%20Prediction%20PPT.pdf).
