@@ -27,4 +27,5 @@
 4. Predictions -
 ![HomePage](https://github.com/jayoswal/Carpe-Diem-Stock-Price-Prediction-Hackathon/blob/main/Screenhots/Predictions_1.jpg)
 5. Circuit -
+![HomePage](https://github.com/jayoswal/Carpe-Diem-Stock-Price-Prediction-Hackathon/blob/main/Screenhots/circuit_1.jpg)
 7. Presentation PDF is included in this repository [here](https://github.com/jayoswal/Carpe-Diem-Stock-Price-Prediction-Hackathon/blob/main/Stock%20Price%20Prediction%20PPT.pdf).
